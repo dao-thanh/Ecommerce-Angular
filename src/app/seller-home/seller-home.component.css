@@ -1,0 +1,30 @@
+table {
+    text-align: left;
+    color: blueviolet;
+    border-collapse: collapse;
+}
+
+table td,
+table th {
+    border: 1px solid blueviolet;
+    padding: 10px;
+    min-height: 160px;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+}
+
+.btn-delete {
+    border: none;
+    background: blueviolet;
+    color: white;
+    border-radius: 3px;
+    padding: 4px;
+}
+
+.adjust-update-link {
+    margin-left: 10px;
+}

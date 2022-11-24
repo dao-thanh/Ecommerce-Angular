@@ -6,6 +6,19 @@ body {
 .container {
     margin-left: 5%;
     margin-right: 5%;
+    /* min-width: 1375px; */
+}
+
+/* @media only screen and (min-width: 1030px) and (max-width: 1366px) {
+    .container {
+        min-width: 1030px;
+        max-width: 1366px   ;
+    }
+} */
+@media (min-width: 1200px) {
+    .container {
+        min-width: 1375px !important;
+    }
 }
 
 .common-form {
@@ -27,9 +40,26 @@ body {
 .form-button {
     height: 35px;
     cursor: pointer;
+    color: blueviolet;
     border: 1px solid blueviolet;
 }
 
 .error-p {
     color: red;
+}
+
+.message-p {
+    color: green;
+}
+
+.carousel-caption {
+    background-color: #00000082;
+    border-radius: 5px;
+}
+
+.carousel-control-next-icon,
+.carousel-control-prev-icon {
+    background-color: black;
+    border: 5px;
+
 }
