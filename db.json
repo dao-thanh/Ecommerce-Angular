@@ -105,6 +105,24 @@
       "email": "peter@user.com",
       "password": "123",
       "id": 2
+    },
+    {
+      "name": "tony",
+      "email": "tony@user.com",
+      "password": "123",
+      "id": 3
+    },
+    {
+      "name": "brure",
+      "email": "brure@user.com",
+      "password": "123",
+      "id": 4
+    },
+    {
+      "name": "thanh",
+      "email": "Thanh@test.com",
+      "password": "123",
+      "id": 5
     }
   ]
 }
