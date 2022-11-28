@@ -92,5 +92,19 @@
       "image": "https://bizweb.dktcdn.net/100/116/615/products/mbp16-spacegray-select-202110-jpeg.jpg?v=1643049459983",
       "id": 4
     }
+  ],
+  "users": [
+    {
+      "name": "thanh",
+      "email": "thanh@gmail.com",
+      "password": "123",
+      "id": 1
+    },
+    {
+      "name": "peter",
+      "email": "peter@user.com",
+      "password": "123",
+      "id": 2
+    }
   ]
 }
