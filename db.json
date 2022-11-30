@@ -124,5 +124,19 @@
       "password": "123",
       "id": 5
     }
+  ],
+  "cart": [
+    {
+      "name": "sam sung m40",
+      "price": "100000",
+      "category": "mobile",
+      "color": "black",
+      "description": "sam sung m40",
+      "image": "https://cdn2.cellphones.com.vn/358x/media/catalog/product/t/_/t_m_12.png",
+      "quantity": 1,
+      "userId": 3,
+      "productId": 3,
+      "id": 1
+    }
   ]
 }
