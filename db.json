@@ -185,6 +185,30 @@
       "userId": 1,
       "productId": 2,
       "id": 5
+    },
+    {
+      "name": "Macbook pro 16",
+      "price": "27000",
+      "category": "Laptop",
+      "color": "Gray",
+      "description": "Macbook pro 16",
+      "image": "https://bizweb.dktcdn.net/100/116/615/products/mbp16-spacegray-select-202110-jpeg.jpg?v=1643049459983",
+      "quantity": 3,
+      "productId": 4,
+      "userId": null,
+      "id": 6
+    },
+    {
+      "name": "Iphone 14",
+      "price": "2501",
+      "category": "mobile",
+      "color": "black",
+      "description": "An apple product",
+      "image": "https://cdn2.cellphones.com.vn/358x/media/catalog/product/t/_/t_m_12.png",
+      "quantity": 1,
+      "productId": 1,
+      "userId": null,
+      "id": 7
     }
   ]
 }
