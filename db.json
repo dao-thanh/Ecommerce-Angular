@@ -210,5 +210,15 @@
       "productId": 4,
       "id": 10
     }
+  ],
+  "orders": [
+    {
+      "email": "thanh1@gmail.com",
+      "address": "Da Nang",
+      "contact": "9999",
+      "totalPrice": 154100,
+      "userId": 3,
+      "id": 1
+    }
   ]
 }
