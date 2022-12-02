@@ -127,30 +127,6 @@
   ],
   "cart": [
     {
-      "name": "HP Laptop",
-      "price": "100000",
-      "category": "Laptop",
-      "color": "white",
-      "description": "Hp laptop",
-      "image": "https://laptop88.vn/media/product/250_6805_45139_hp_15_ef_ha4.jpg",
-      "quantity": 1,
-      "userId": 3,
-      "productId": 2,
-      "id": 1
-    },
-    {
-      "name": "Macbook pro 16",
-      "price": "27000",
-      "category": "Laptop",
-      "color": "Gray",
-      "description": "Macbook pro 16",
-      "image": "https://bizweb.dktcdn.net/100/116/615/products/mbp16-spacegray-select-202110-jpeg.jpg?v=1643049459983",
-      "quantity": 1,
-      "userId": 3,
-      "productId": 4,
-      "id": 2
-    },
-    {
       "name": "sam sung m40",
       "price": "100000",
       "category": "mobile",
@@ -209,6 +185,30 @@
       "productId": 1,
       "userId": null,
       "id": 7
+    },
+    {
+      "name": "sam sung m40",
+      "price": "100000",
+      "category": "mobile",
+      "color": "black",
+      "description": "sam sung m40",
+      "image": "https://cdn2.cellphones.com.vn/358x/media/catalog/product/t/_/t_m_12.png",
+      "quantity": 1,
+      "userId": 3,
+      "productId": 3,
+      "id": 9
+    },
+    {
+      "name": "Macbook pro 16",
+      "price": "27000",
+      "category": "Laptop",
+      "color": "Gray",
+      "description": "Macbook pro 16",
+      "image": "https://bizweb.dktcdn.net/100/116/615/products/mbp16-spacegray-select-202110-jpeg.jpg?v=1643049459983",
+      "quantity": 2,
+      "userId": 3,
+      "productId": 4,
+      "id": 10
     }
   ]
 }

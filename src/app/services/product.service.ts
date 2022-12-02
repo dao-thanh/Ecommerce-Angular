@@ -86,10 +86,16 @@ export class ProductService {
     return this.http.delete('http://localhost:3000/cart/' + cartId);
   }
 
+  // currentCart() {
+  //   let userStore = localStorage.getItem('user');
+  //   let userData = userStore && JSON.parse(userStore);
+  //   return this.http.get<cart[]>('http://localhost:3000/cart?userId=' + userData.id);
+  // }
+
   currentCart() {
     let userStore = localStorage.getItem('user');
     let userData = userStore && JSON.parse(userStore);
-    return this.http.get<cart[]>('http://localhost:3000/cart?userId=' + userData.id);
+    return this.http.get<cart[]>('http://localhost:3000/cart?userId=' + userData.id)
   }
 
   deleteCartItems(cartId: number) {
