@@ -185,44 +185,24 @@
       "productId": 1,
       "userId": null,
       "id": 7
-    },
-    {
-      "name": "Macbook pro 16",
-      "price": "27000",
-      "category": "Laptop",
-      "color": "Gray",
-      "description": "Macbook pro 16",
-      "image": "https://bizweb.dktcdn.net/100/116/615/products/mbp16-spacegray-select-202110-jpeg.jpg?v=1643049459983",
-      "quantity": 2,
-      "userId": 3,
-      "productId": 4,
-      "id": 8
     }
   ],
   "orders": [
     {
-      "email": "thanh1@gmail.com",
+      "email": "Thanh@test.com",
       "address": "Da Nang",
-      "contact": "9999",
-      "totalPrice": 154100,
+      "contact": "3",
+      "totalPrice": 81100,
       "userId": 3,
       "id": 1
     },
     {
-      "email": "Thanh@user.com",
-      "address": "nghe an",
-      "contact": "99999",
-      "totalPrice": 154100,
+      "email": "Thanh@test.com1",
+      "address": "Da Nang",
+      "contact": "9999",
+      "totalPrice": 100100,
       "userId": 3,
       "id": 2
-    },
-    {
-      "email": "Thanh@test.com",
-      "address": "Da Nang",
-      "contact": "9988",
-      "totalPrice": 54100,
-      "userId": 3,
-      "id": 3
     }
   ]
 }
