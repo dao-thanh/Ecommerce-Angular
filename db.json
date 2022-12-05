@@ -185,6 +185,18 @@
       "productId": 1,
       "userId": null,
       "id": 7
+    },
+    {
+      "name": "HP Laptop",
+      "price": "100000",
+      "category": "Laptop",
+      "color": "white",
+      "description": "Hp laptop",
+      "image": "https://laptop88.vn/media/product/250_6805_45139_hp_15_ef_ha4.jpg",
+      "quantity": 1,
+      "userId": 3,
+      "productId": 2,
+      "id": 8
     }
   ],
   "orders": [
